@@ -62,5 +62,30 @@ df_historical = df[df["LoanStatus"] != "Current"]
 
 df_historical["LoanStatus"] = (df_historical["LoanStatus"] == "Completed").astype(int)
 
+df_historical.drop(["CreditGrade", "BorrowerAPR", "LenderYield", "EstimatedEffectiveYield", "EstimatedLoss", "EstimatedReturn",
+                 "ProsperRating (Alpha)", "Occupation", "CurrentlyInGroup", "GroupKey", "IncomeRange", "PercentFunded"], axis=1,
+                inplace=True)
+
+df_historical.replace(to_replace={"ListingCategory (numeric)": {0: "Unknown", 1: "Debt", 2: "Reno", 3: "Business", 4: "Personal",
+                                                                5: "Student", 6: "Auto", 7: "Other", 8: "Baby", 9: "Boat", 
+                                                                10: "Cosmetic", 11: "Engagement", 12: "Green", 13: "Household",
+                                                                14: "LargePurchase", 15: "Medical", 16: "Motorcycle", 17: "RV",
+                                                                18: "Taxes", 19: "Vacation", 20: "Wedding"}}, inplace=True)
+
+df_historical.rename(index=str, columns={"ListingCategory (numeric)": "ListingCategory"}, inplace=True)
+
+credit_score_range = df_historical["CreditScoreRangeUpper"] - df_historical["CreditScoreRangeLower"]
+
+df_historical.drop("CreditScoreRangeUpper", axis=1, inplace=True)
+
+df_historical.rename(index=str, columns={"CreditScoreRangeLower": "CreditScore"}, inplace=True)
+
+first_credit_year = df_historical["FirstRecordedCreditLine"].str[:4]
+
+df_historical["YearsWithCredit"] = 2014 - pd.to_numeric(first_credit_year)
+
+df_historical.drop("FirstRecordedCreditLine", axis=1, inplace=True)
+
+
 df_historical.to_csv('historical_data.csv', index=False)
 df_historical.sample(n=200).to_csv('historical_data_sample.csv', index=False)
