@@ -94,7 +94,7 @@ if __name__ == '__main__':
     last_ts = start_ts
 
     with open(filename, "w") as fout:
-      print "generating log ", filename
+      print("generating log ", filename)
       while (last_ts < end_ts):
         delta_since_epoch = last_ts - epoch
         millis = int((delta_since_epoch.microseconds + (delta_since_epoch.seconds + delta_since_epoch.days * 24 * 3600) * 10**6) / 1e3)
