@@ -57,7 +57,7 @@ def generate_log(timestamp):
     logline = json.dumps(dict)
 
 
-  #print logline
+  #print(logline)
   return logline
 
 
@@ -66,7 +66,7 @@ def generate_log(timestamp):
 ## --- script main
 if __name__ == '__main__':
   time_inc_ms = int ((24.0*3600*1000)/entries_per_day)
-  #print "time inc ms", time_inc_ms
+  #print("time inc ms", time_inc_ms)
   #epoch = dt.datetime.fromtimestamp(0)
   epoch = dt.datetime(1970,1,1)
 
@@ -76,25 +76,24 @@ if __name__ == '__main__':
     start_ts = year_start + day_delta
     #end_ts = dt.datetime(start_ts.year, start_ts.month, start_ts.day, 23, 59, 59)
     end_ts = dt.datetime(start_ts.year, start_ts.month, start_ts.day+1, 0, 0, 0)
-    filename = "clickstream-" + start_ts.strftime("%Y-%m-%d") 
+    filename = "clickstream-" + start_ts.strftime("%Y-%m-%d")
     if (log_format == 'csv'):
       filename = filename + ".csv"
     if (log_format == 'json'):
       filename = filename + ".json"
 
-    #print start_ts
-    #print end_ts
+    #print(start_ts)
+    #print(end_ts)
     last_ts = start_ts
 
     with open(filename, "w") as fout:
-      print "generating log ", filename
+      print("generating log ", filename)
       while (last_ts < end_ts):
         delta_since_epoch = last_ts - epoch
         millis = int((delta_since_epoch.microseconds + (delta_since_epoch.seconds + delta_since_epoch.days * 24 * 3600) * 10**6) / 1e3)
-        #print "last ts", last_ts
-        #print "millis",  millis
+        #print("last ts", last_ts)
+        #print("millis",  millis)
         logline = generate_log(millis)
         fout.write(logline + "\n")
 
         last_ts = last_ts + dt.timedelta(milliseconds=time_inc_ms)
-

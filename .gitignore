@@ -1,1 +1,4 @@
 *.data
+
+click-stream/json/
+click-stream/*.csv
