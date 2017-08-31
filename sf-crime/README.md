@@ -37,3 +37,8 @@ This dataset contains incidents derived from SFPD Crime Incident Reporting syste
 | 2015-05-13 22:30:00 | OTHER OFFENSES     | MISCELLANEOUS INVESTIGATION                 | Wednesday | TARAVAL    | NONE             | 0 Block of ESCOLTA WY         | -122.4879830727   |          | | 77                  | 37.737666654332706 |                                             |           |            |                  |                               |                   |          | 
 | 2015-05-13 22:30:00 | VANDALISM          | "MALICIOUS MISCHIEF, VANDALISM OF VEHICLES" | Wednesday | TENDERLOIN | NONE             | TURK ST / JONES ST            | -122              |          | | .41241426358101     | 37.7830037964534   |                                             |           |            |                  |                               |                   |          | 
 
+
+## Additional Data
+
+CASANF0URN.csv: ST Louis FRED data for Unemployment rate in San Francisco.
+police-districts.csv: lookup table by police district
