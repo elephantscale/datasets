@@ -28,7 +28,7 @@ These are some datasets for our labs.
 24. [Stock Market Data](./stocks/README.md)
 25. [Text](./text/README.md)
 26. [Tips](./tips/README.md)
-27. [Walmart Trip Types](./walmart-triptypes/README.md)
+27. [Walmart Trip Types](./walmart-triptype/README.md)
 28. [Zipcodes](./zipcodes/README.md)
 
 

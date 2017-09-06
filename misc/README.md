@@ -1,3 +1,6 @@
-# Rainfall data
+# Misc Data
 
-This is a toy dataset that has some (not real) ranfall stats for different cities.
+Some toy datasets
+
+ * Rainfall: rainfall numbers 
+ * Array: random numeric data
