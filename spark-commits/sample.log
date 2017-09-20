@@ -1,3 +1,4 @@
+sha|committer|email|date|comment
 68f2142cfd2ca632a4afb0cc29cc358edbb21f8d|Dilip Biswal|dbiswal@us.ibm.com|Sat Feb 25 23:56:57 2017 -0800|[SQL] Duplicate test exception in SQLQueryTestSuite due to meta files(.DS_Store) on Mac
 89608cf26226e28f331a4695fee89394d0d38ea0|Wenchen Fan|wenchen@databricks.com|Sat Feb 25 23:01:44 2017 -0800|[SPARK-17075][SQL][FOLLOWUP] fix some minor issues and clean up the code
 6ab60542e8e803b1d91371a92f4aaef6a64106f6|Joseph K. Bradley|joseph@databricks.com|Sat Feb 25 22:24:08 2017 -0800|[MINOR][ML][DOC] Document default value for GeneralizedLinearRegression.linkPower
