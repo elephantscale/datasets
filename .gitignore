@@ -3,3 +3,4 @@
 click-stream/json/
 click-stream/*.csv
 *.zip
+nltk_data/
