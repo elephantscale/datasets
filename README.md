@@ -2,38 +2,41 @@
 
 These are some datasets for our labs.
 
-1. [AudioScrobble](./audioscrobble/README.md)
-2. [Cars](./cars/README.md)
-3. [Churn](./churn/README.md)
-4. [ClickStream](./click-stream/README.md)
-5. [College Admissions](./college-admissions/README.md)
-6. [COmmodities](./commodities/README.md)
-7. [Credit Card default](./credit-card-default/README.md)
-8. [Economic Numbers](./econ/README.md) 
-9. [Election Contributions](./election/README.md) 
-10. [House Prices](./house-prices/README.md)
-11. [IMDB Metadata](./imdb/README.md)
-12. [JSON Data](./json/README.md)
-13. [Misc](./misc/README.md)
-14. [Morgage Applications](./mortgage-applications/README.md)
-15. [MovieLens Recommendations](./movielens/README.md)
-16. [Netflix Recommendations](./netflix/README.md)
-17. [NYC Flight Delays](./nycflights13/README.md)
-18. [NYSE](./nyse/README.md)
-19. [Presidential Election Contributions](./presidential_election_contribs/README.md)
-20. [Propser Loan](./prosper-loan/README.md)
-21. [SF Crime](./sf-crime/README.md)
-22. [Spam SMS](./spam/README.md)
-23. [Spark Commit Logs](./spark-commits/README.md)
-24. [Stock Market Data](./stocks/README.md)
-25. [Text](./text/README.md)
-26. [Tips](./tips/README.md)
-27. [Walmart Trip Types](./walmart-triptype/README.md)
-28. [Zipcodes](./zipcodes/README.md)
-
-
+- [AudioScrobble](./audioscrobble/README.md)
+- [Cars](./cars/README.md)
+- [Churn](./churn/README.md)
+- [ClickStream](./click-stream/README.md)
+- [College Admissions](./college-admissions/README.md)
+- [Commodities](./commodities/README.md)
+- [Credit Card default](./credit-card-default/README.md)
+- [Diabetes data](diabetes/README.md)
+- [Economic Numbers](./econ/README.md)
+- [Election Contributions](./election/README.md)
+- [House Prices](./house-prices/README.md)
+- [IMDB Metadata](./imdb/README.md)
+- [JSON Data](./json/README.md)
+- [Misc](./misc/README.md)
+- [Morgage Applications](./mortgage-applications/README.md)
+- [MovieLens Recommendations](./movielens/README.md)
+- [Netflix Recommendations](./netflix/README.md)
+- [NYC Flight Delays](./nycflights13/README.md)
+- [NYSE](./nyse/README.md)
+- [Presidential Election Contributions](./presidential_election_contribs/README.md)
+- [Propser Loan](./prosper-loan/README.md)
+- [SF Crime](./sf-crime/README.md)
+- [Spam SMS](./spam/README.md)
+- [Spark Commit Logs](./spark-commits/README.md)
+- [Stock Market Data](./stocks/README.md)
+- [Text](./text/README.md)
+- [Tips](./tips/README.md)
+- [Uber data for New York City](./uber-nyc/README.md)
+- [Walmart Trip Types](./walmart-triptype/README.md)
+- [Zipcodes](./zipcodes/README.md)
 
 # Handy Commands
+
+TO create a zip archive of data
+    $   git archive --format=zip HEAD -o datasets.zip
 
 to select random lines from the full file
         $   shuf -n 10000 2016.csv > 2016-10k.csv
