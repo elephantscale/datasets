@@ -4,3 +4,5 @@ click-stream/json/
 click-stream/*.csv
 *.zip
 nltk_data/
+
+presidential_election_contribs/2016/2016-full.csv.gz
