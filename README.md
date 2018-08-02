@@ -2,6 +2,9 @@
 
 These are some datasets for our labs.
 
+Also hosted in Amazon S3 here:
+https://s3.amazonaws.com/elephantscale-public/data/datasets.zip
+
 - [AudioScrobble](./audioscrobble/README.md)
 - [Cars](./cars/README.md)
 - [Churn](./churn/README.md)
