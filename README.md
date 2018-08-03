@@ -43,3 +43,9 @@ TO create a zip archive of data
 
 to select random lines from the full file
         $   shuf -n 10000 2016.csv > 2016-10k.csv
+        
+   
+# Places with good datasets
+
+- [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.html)
+![](images/ucilogo.gif)
