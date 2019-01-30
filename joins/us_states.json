@@ -1,0 +1,51 @@
+{"state": "AL", "name": "Alabama", "census_region": "South", "census_division": "East South Central"}
+{"state": "AK", "name": "Alaska", "census_region": "West", "census_division": "Pacific"}
+{"state": "AZ", "name": "Arizona", "census_region": "West", "census_division": "Mountain"}
+{"state": "AR", "name": "Arkansas", "census_region": "South", "census_division": "West South Central"}
+{"state": "CA", "name": "California", "census_region": "West", "census_division": "Pacific"}
+{"state": "CO", "name": "Colorado", "census_region": "West", "census_division": "Mountain"}
+{"state": "CT", "name": "Connecticut", "census_region": "Northeast", "census_division": "New England"}
+{"state": "DE", "name": "Delaware", "census_region": "South", "census_division": "South Atlantic"}
+{"state": "DC", "name": "District Of Columbia", "census_region": "South", "census_division": "South Atlantic"}
+{"state": "FL", "name": "Florida", "census_region": "South", "census_division": "South Atlantic"}
+{"state": "GA", "name": "Georgia", "census_region": "South", "census_division": "South Atlantic"}
+{"state": "HI", "name": "Hawaii", "census_region": "West", "census_division": "Pacific"}
+{"state": "ID", "name": "Idaho", "census_region": "West", "census_division": "Mountain"}
+{"state": "IL", "name": "Illinois", "census_region": "Midwest", "census_division": "East North Central"}
+{"state": "IN", "name": "Indiana", "census_region": "Midwest", "census_division": "East North Central"}
+{"state": "IA", "name": "Iowa", "census_region": "Midwest", "census_division": "West North Central"}
+{"state": "KS", "name": "Kansas", "census_region": "Midwest", "census_division": "West North Central"}
+{"state": "KY", "name": "Kentucky", "census_region": "South", "census_division": "East South Central"}
+{"state": "LA", "name": "Louisiana", "census_region": "South", "census_division": "West South Central"}
+{"state": "ME", "name": "Maine", "census_region": "Northeast", "census_division": "New England"}
+{"state": "MD", "name": "Maryland", "census_region": "South", "census_division": "South Atlantic"}
+{"state": "MA", "name": "Massachusetts", "census_region": "Northeast", "census_division": ""}
+{"state": "MI", "name": "Michigan", "census_region": "Midwest", "census_division": "New England"}
+{"state": "MN", "name": "Minnesota", "census_region": "Midwest", "census_division": "West North Central"}
+{"state": "MS", "name": "Mississippi", "census_region": "South", "census_division": "East South Central"}
+{"state": "MO", "name": "Missouri", "census_region": "Midwest", "census_division": "West North Central"}
+{"state": "MT", "name": "Montana", "census_region": "West", "census_division": "Mountain"}
+{"state": "NE", "name": "Nebraska", "census_region": "Midwest", "census_division": "West North Central"}
+{"state": "NV", "name": "Nevada", "census_region": "West", "census_division": "Mountain"}
+{"state": "NH", "name": "New Hampshire", "census_region": "Northeast", "census_division": "New England"}
+{"state": "NJ", "name": "New Jersey", "census_region": "Northeast", "census_division": "Middle Atlantic"}
+{"state": "NM", "name": "New Mexico", "census_region": "West", "census_division": "Mountain"}
+{"state": "NY", "name": "New York", "census_region": "Northeast", "census_division": "Middle Atlantic"}
+{"state": "NC", "name": "North Carolina", "census_region": "South", "census_division": "South Atlantic"}
+{"state": "ND", "name": "North Dakota", "census_region": "Midwest", "census_division": "West North Central"}
+{"state": "OH", "name": "Ohio", "census_region": "Midwest", "census_division": "East North Central"}
+{"state": "OK", "name": "Oklahoma", "census_region": "South", "census_division": "West South Central"}
+{"state": "OR", "name": "Oregon", "census_region": "West", "census_division": "Pacific"}
+{"state": "PA", "name": "Pennsylvania", "census_region": "Northeast", "census_division": "Middle Atlantic"}
+{"state": "RI", "name": "Rhode Island", "census_region": "Northeast", "census_division": "New England"}
+{"state": "SC", "name": "South Carolina", "census_region": "South", "census_division": "South Atlantic"}
+{"state": "SD", "name": "South Dakota", "census_region": "Midwest", "census_division": "West North Central"}
+{"state": "TN", "name": "Tennessee", "census_region": "South", "census_division": "East South Central"}
+{"state": "TX", "name": "Texas", "census_region": "South", "census_division": "West South Central"}
+{"state": "UT", "name": "Utah", "census_region": "West", "census_division": "Mountain"}
+{"state": "VT", "name": "Vermont", "census_region": "Northeast", "census_division": "New England"}
+{"state": "VA", "name": "Virginia", "census_region": "South", "census_division": "South Atlantic"}
+{"state": "WA", "name": "Washington", "census_region": "West", "census_division": "Pacific"}
+{"state": "WV", "name": "West Virginia", "census_region": "South", "census_division": "South Atlantic"}
+{"state": "WI", "name": "Wisconsin", "census_region": "Midwest", "census_division": "East North Central"}
+{"state": "WY", "name": "Wyoming", "census_region": "West", "census_division": "Mountain"}
