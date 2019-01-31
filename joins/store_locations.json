@@ -1,0 +1,475 @@
+{"city": "Montgomery", "state": "AL", "zip_code": "36117-7033"}
+{"city": "Mobile", "state": "AL", "zip_code": "36606"}
+{"city": "Huntsville", "state": "AL", "zip_code": "35801-5930"}
+{"city": "Hoover", "state": "AL", "zip_code": "35244-2346"}
+{"city": "Anchorage", "state": "AK", "zip_code": "99515-1950"}
+{"city": "Juneau", "state": "AK", "zip_code": "99801-7210"}
+{"city": "Anchorage", "state": "AK", "zip_code": "99508-3115"}
+{"city": "Mesa", "state": "AZ", "zip_code": "85209-3400"}
+{"city": "Phoenix", "state": "AZ", "zip_code": "85032-7702"}
+{"city": "Tucson", "state": "AZ", "zip_code": "85713"}
+{"city": "Tucson", "state": "AZ", "zip_code": "85712-5834"}
+{"city": "Tustin", "state": "CA", "zip_code": "92782-2708"}
+{"city": "Antioch", "state": "CA", "zip_code": "94509-7911"}
+{"city": "Woodland", "state": "CA", "zip_code": "95776-5409"}
+{"city": "San Jose", "state": "CA", "zip_code": "95131-1866"}
+{"city": "Victorville", "state": "CA", "zip_code": "92395-4216"}
+{"city": "Chico", "state": "CA", "zip_code": "95928-4422"}
+{"city": "San Dimas", "state": "CA", "zip_code": "91773-1725"}
+{"city": "Visalia", "state": "CA", "zip_code": "93277-9527"}
+{"city": "Manteca", "state": "CA", "zip_code": "95336-6745"}
+{"city": "Redwood City", "state": "CA", "zip_code": "94063-2854"}
+{"city": "Lakewood", "state": "CA", "zip_code": "90712-2409"}
+{"city": "Hayward", "state": "CA", "zip_code": "94545-5008"}
+{"city": "Pacoima", "state": "CA", "zip_code": "91331-2352"}
+{"city": "San Marcos", "state": "CA", "zip_code": "92069"}
+{"city": "Lodi", "state": "CA", "zip_code": "95240"}
+{"city": "Huntington Beach", "state": "CA", "zip_code": "92647"}
+{"city": "Westlake Village", "state": "CA", "zip_code": "91362-4063"}
+{"city": "San Leandro", "state": "CA", "zip_code": "94577-1209"}
+{"city": "Woodland Hills", "state": "CA", "zip_code": "91367-2227"}
+{"city": "El Centro", "state": "CA", "zip_code": "92243-1323"}
+{"city": "Tustin", "state": "CA", "zip_code": "92782-8918"}
+{"city": "Vista", "state": "CA", "zip_code": "92081-4546"}
+{"city": "Eureka", "state": "CA", "zip_code": "95501-2121"}
+{"city": "Garden Grove", "state": "CA", "zip_code": "92843-1206"}
+{"city": "Simi Valley", "state": "CA", "zip_code": "93065-6207"}
+{"city": "Santa Clara", "state": "CA", "zip_code": "95050-3100"}
+{"city": "Los Angeles", "state": "CA", "zip_code": "90039-1502"}
+{"city": "SandCity", "state": "CA", "zip_code": "93955-3051"}
+{"city": "Vallejo", "state": "CA", "zip_code": "94591-3702"}
+{"city": "Redding", "state": "CA", "zip_code": "96003-4071"}
+{"city": "Clovis", "state": "CA", "zip_code": "93612-5611"}
+{"city": "Novato", "state": "CA", "zip_code": "94945-5007"}
+{"city": "Merced", "state": "CA", "zip_code": "95340-5850"}
+{"city": "Mountain View", "state": "CA", "zip_code": "94043-1716"}
+{"city": "San Francisco", "state": "CA", "zip_code": "94103-4304"}
+{"city": "Livermore", "state": "CA", "zip_code": "94551-7628"}
+{"city": "Foster City", "state": "CA", "zip_code": "94404-2177"}
+{"city": "San Jose", "state": "CA", "zip_code": "95112-2627"}
+{"city": "Santa Cruz", "state": "CA", "zip_code": "95060-2161"}
+{"city": "Danville", "state": "CA", "zip_code": "94526-5553"}
+{"city": "Santa Maria", "state": "CA", "zip_code": "93454-8006"}
+{"city": "Laguna Niguel", "state": "CA", "zip_code": "92677-1211"}
+{"city": "Roseville", "state": "CA", "zip_code": "95678-1907"}
+{"city": "Fresno", "state": "CA", "zip_code": "93722-6200"}
+{"city": "Stockton", "state": "CA", "zip_code": "95210-4119"}
+{"city": "San Diego", "state": "CA", "zip_code": "92117-3650"}
+{"city": "Santee", "state": "CA", "zip_code": "92071-5899"}
+{"city": "Santa Rosa", "state": "CA", "zip_code": "95407-7636"}
+{"city": "Norwalk", "state": "CA", "zip_code": "90650-2266"}
+{"city": "Fountain Valley", "state": "CA", "zip_code": "92708-5404"}
+{"city": "Azusa", "state": "CA", "zip_code": "91702-2819"}
+{"city": "Fullerton", "state": "CA", "zip_code": "92832-3098"}
+{"city": "Oxnard", "state": "CA", "zip_code": "93036-1813"}
+{"city": "South San Francisco", "state": "CA", "zip_code": "94080-6909"}
+{"city": "Sunnyvale", "state": "CA", "zip_code": "94086-5309"}
+{"city": "Signal Hill", "state": "CA", "zip_code": "90755-2132"}
+{"city": "Alhambra", "state": "CA", "zip_code": "91803-1302"}
+{"city": "San Juan Capistrano", "state": "CA", "zip_code": "92675-4836"}
+{"city": "Corona", "state": "CA", "zip_code": "92879-1291"}
+{"city": "Northridge", "state": "CA", "zip_code": "91324-3519"}
+{"city": "Rancho Cordova", "state": "CA", "zip_code": "95742-6571"}
+{"city": "Palm Desert", "state": "CA", "zip_code": "92211-0817"}
+{"city": "Yorba Linda", "state": "CA", "zip_code": "92887-4664"}
+{"city": "Santa Clarita", "state": "CA", "zip_code": "91387-4935"}
+{"city": "San Diego", "state": "CA", "zip_code": "92128-4697"}
+{"city": "Fairfield", "state": "CA", "zip_code": "94534-1624"}
+{"city": "Irvine", "state": "CA", "zip_code": "92618-2408"}
+{"city": "Moreno Valley", "state": "CA", "zip_code": "92553-7531"}
+{"city": "Montebello", "state": "CA", "zip_code": "90640-2585"}
+{"city": "Chula Vista", "state": "CA", "zip_code": "91910-7807"}
+{"city": "Carlsbad", "state": "CA", "zip_code": "92011-1110"}
+{"city": "Sacramento", "state": "CA", "zip_code": "95823-9606"}
+{"city": "La Mesa", "state": "CA", "zip_code": "91942-2934"}
+{"city": "San Jose", "state": "CA", "zip_code": "95118-3603"}
+{"city": "Sacramento", "state": "CA", "zip_code": "95815-4228"}
+{"city": "Salinas", "state": "CA", "zip_code": "93907-1988"}
+{"city": "Chino Hills", "state": "CA", "zip_code": "91709-6002"}
+{"city": "Goleta", "state": "CA", "zip_code": "93117-5905"}
+{"city": "South San Francisco", "state": "CA", "zip_code": "94080-1206"}
+{"city": "Torrance", "state": "CA", "zip_code": "90505-5351"}
+{"city": "San Bernardino", "state": "CA", "zip_code": "92408-2836"}
+{"city": "Marina Del Rey", "state": "CA", "zip_code": "90292-5658"}
+{"city": "Van Nuys", "state": "CA", "zip_code": "91411-2503"}
+{"city": "Richmond", "state": "CA", "zip_code": "94804-5878"}
+{"city": "San Diego", "state": "CA", "zip_code": "92102-4530"}
+{"city": "San Diego", "state": "CA", "zip_code": "92108-4743"}
+{"city": "Temecula", "state": "CA", "zip_code": "92591-4697"}
+{"city": "Hawthorne", "state": "CA", "zip_code": "90250-4638"}
+{"city": "Commerce", "state": "CA", "zip_code": "90040-2513"}
+{"city": "San Diego", "state": "CA", "zip_code": "92111-3709"}
+{"city": "Fontana", "state": "CA", "zip_code": "92336-1256"}
+{"city": "La Quinta", "state": "CA", "zip_code": "92253-4756"}
+{"city": "Bakersfield", "state": "CA", "zip_code": "93313-3479"}
+{"city": "Fresno", "state": "CA", "zip_code": "93720-2920"}
+{"city": "Tracy", "state": "CA", "zip_code": "95377"}
+{"city": "Rohnert Park", "state": "CA", "zip_code": "94928-2076"}
+{"city": "Modesto", "state": "CA", "zip_code": "95356-8300"}
+{"city": "Concord", "state": "CA", "zip_code": "94520-3105"}
+{"city": "Hawthorne", "state": "CA", "zip_code": "90250-6748"}
+{"city": "Burbank", "state": "CA", "zip_code": "91506-1421"}
+{"city": "Rancho Cucamonga", "state": "CA", "zip_code": "91739-9318"}
+{"city": "City Of Industry", "state": "CA", "zip_code": "91748-1701"}
+{"city": "Montclair", "state": "CA", "zip_code": "91763-2421"}
+{"city": "Bakersfield", "state": "CA", "zip_code": "93308-6235"}
+{"city": "Laguna Niguel", "state": "CA", "zip_code": "92677-3418"}
+{"city": "Vacaville", "state": "CA", "zip_code": "95687-5558"}
+{"city": "San Luis Obispo", "state": "CA", "zip_code": "93405-7211"}
+{"city": "Lake Elsinore", "state": "CA", "zip_code": "92532-2212"}
+{"city": "Cypress", "state": "CA", "zip_code": "90720-2809"}
+{"city": "Gilroy", "state": "CA", "zip_code": "95020-7340"}
+{"city": "Lancaster", "state": "CA", "zip_code": "93534-7077"}
+{"city": "Folsom", "state": "CA", "zip_code": "95630-6235"}
+{"city": "Inglewood", "state": "CA", "zip_code": "90303-1201"}
+{"city": "Citrus Heights", "state": "CA", "zip_code": "95621-4342"}
+{"city": "Poway", "state": "CA", "zip_code": "92064-7156"}
+{"city": "La Habra", "state": "CA", "zip_code": "90631-4468"}
+{"city": "Fremont", "state": "CA", "zip_code": "94538-3809"}
+{"city": "Chula Vista", "state": "CA", "zip_code": "91911-2707"}
+{"city": "Turlock", "state": "CA", "zip_code": "95380-9401"}
+{"city": "Hayward", "state": "CA", "zip_code": "94541-4861"}
+{"city": "Westminster", "state": "CA", "zip_code": "92683-9210"}
+{"city": "Colorado Springs", "state": "CO", "zip_code": "80922-3512"}
+{"city": "Parker", "state": "CO", "zip_code": "80138-8876"}
+{"city": "Sheridan", "state": "CO", "zip_code": "80110-3316"}
+{"city": "Colorado Springs", "state": "CO", "zip_code": "80918-8602"}
+{"city": "Timnath", "state": "CO", "zip_code": "80547"}
+{"city": "Aurora", "state": "CO", "zip_code": "80012-4013"}
+{"city": "Westminster", "state": "CO", "zip_code": "80031-2952"}
+{"city": "Littleton", "state": "CO", "zip_code": "80123-1350"}
+{"city": "Littleton", "state": "CO", "zip_code": "80124-5129"}
+{"city": "Superior", "state": "CO", "zip_code": "80027-9730"}
+{"city": "Thornton", "state": "CO", "zip_code": "80023-8907"}
+{"city": "Gypsum", "state": "CO", "zip_code": "81637-9707"}
+{"city": "Arvada", "state": "CO", "zip_code": "80002-4617"}
+{"city": "New Britain", "state": "CT", "zip_code": "06053-1507"}
+{"city": "Brookfield", "state": "CT", "zip_code": "06804-2527"}
+{"city": "Milford", "state": "CT", "zip_code": "06460-2718"}
+{"city": "Waterbury", "state": "CT", "zip_code": "06705-3851"}
+{"city": "Norwalk", "state": "CT", "zip_code": "06854-1615"}
+{"city": "Enfield", "state": "CT", "zip_code": "06082-385"}
+{"city": "Newark", "state": "DE", "zip_code": "19702-3221"}
+{"city": "Washington", "state": "DC", "zip_code": "20018"}
+{"city": "Miami", "state": "FL", "zip_code": "33186-7393"}
+{"city": "Tallahassee", "state": "FL", "zip_code": "32317-1201"}
+{"city": "Sarasota", "state": "FL", "zip_code": "34238-2966"}
+{"city": "Lantana", "state": "FL", "zip_code": "33462-2698"}
+{"city": "Miami Lakes", "state": "FL", "zip_code": "33014-5611"}
+{"city": "Miami", "state": "FL", "zip_code": "33181-1209"}
+{"city": "Altamonte Springs", "state": "FL", "zip_code": "32714-3031"}
+{"city": "Orlando", "state": "FL", "zip_code": "32837-9283"}
+{"city": "Winter Park", "state": "FL", "zip_code": "32792-7428"}
+{"city": "Clearwater", "state": "FL", "zip_code": "33759-4936"}
+{"city": "Boca Raton", "state": "FL", "zip_code": "33487-1200"}
+{"city": "Fort Myers", "state": "FL", "zip_code": "33907-6521"}
+{"city": "Naples", "state": "FL", "zip_code": "34109-2030"}
+{"city": "Jacksonville", "state": "FL", "zip_code": "32246-4405"}
+{"city": "Brandon", "state": "FL", "zip_code": "33511-2903"}
+{"city": "Fort Myers", "state": "FL", "zip_code": "33913-8961"}
+{"city": "Royal Palm Beach", "state": "FL", "zip_code": "33411-4240"}
+{"city": "Pembroke Pines", "state": "FL", "zip_code": "33027-1201"}
+{"city": "Pompano Beach", "state": "FL", "zip_code": "33064-1324"}
+{"city": "Davie", "state": "FL", "zip_code": "33324-5847"}
+{"city": "Doral", "state": "FL", "zip_code": "33126-3832"}
+{"city": "Lake Park", "state": "FL", "zip_code": "33403-1702"}
+{"city": "Ringgold", "state": "GA", "zip_code": "30736-8566"}
+{"city": "Atlanta", "state": "GA", "zip_code": "30319-3291"}
+{"city": "Augusta", "state": "GA", "zip_code": "30909-8202"}
+{"city": "Cumming", "state": "GA", "zip_code": "30041"}
+{"city": "Duluth", "state": "GA", "zip_code": "30096-5077"}
+{"city": "Atlanta", "state": "GA", "zip_code": "30328-4527"}
+{"city": "Kennesaw", "state": "GA", "zip_code": "30144-4922"}
+{"city": "Buford", "state": "GA", "zip_code": "30519-6551"}
+{"city": "Morrow", "state": "GA", "zip_code": "30260-3014"}
+{"city": "Atlanta", "state": "GA", "zip_code": "30339-8107"}
+{"city": "Alpharetta", "state": "GA", "zip_code": "30004-3869"}
+{"city": "Kapolei", "state": "HI", "zip_code": "96707-1879"}
+{"city": "Kahului", "state": "HI", "zip_code": "96732-2302"}
+{"city": "Honolulu", "state": "HI", "zip_code": "96825-3428"}
+{"city": "Kailua Kona", "state": "HI", "zip_code": "96740-2630"}
+{"city": "Waipahu", "state": "HI", "zip_code": "96797-4495"}
+{"city": "Lihue", "state": "HI", "zip_code": "96766-8002"}
+{"city": "Honolulu", "state": "HI", "zip_code": "96817-5764"}
+{"city": "Pocatello", "state": "ID", "zip_code": "83201-4988"}
+{"city": "Twin Falls", "state": "ID", "zip_code": "83301-3036"}
+{"city": "Nampa", "state": "ID", "zip_code": "83687-7909"}
+{"city": "Boise", "state": "ID", "zip_code": "83709-2815"}
+{"city": "Coeur D'Alene", "state": "ID", "zip_code": "83815-3723"}
+{"city": "Saint Charles", "state": "IL", "zip_code": "60174-1524"}
+{"city": "Mettawa", "state": "IL", "zip_code": "60045-3403"}
+{"city": "Melrose Park", "state": "IL", "zip_code": "60160-1607"}
+{"city": "Bolingbrook", "state": "IL", "zip_code": "60440-2355"}
+{"city": "Chicago", "state": "IL", "zip_code": "60608"}
+{"city": "East Peoria", "state": "IL", "zip_code": "61611"}
+{"city": "North Riverside", "state": "IL", "zip_code": "60546"}
+{"city": "Naperville", "state": "IL", "zip_code": "60564-5944"}
+{"city": "Glenview", "state": "IL", "zip_code": "60026-8046"}
+{"city": "Bloomingdale", "state": "IL", "zip_code": "60108-1391"}
+{"city": "Lake Zurich", "state": "IL", "zip_code": "60047-3409"}
+{"city": "Chicago", "state": "IL", "zip_code": "60614-1006"}
+{"city": "Niles", "state": "IL", "zip_code": "60714-3905"}
+{"city": "Schaumburg", "state": "IL", "zip_code": "60173-4805"}
+{"city": "Oak Brook", "state": "IL", "zip_code": "60523-1785"}
+{"city": "Bedford Park", "state": "IL", "zip_code": "60629-5817"}
+{"city": "Orland Park", "state": "IL", "zip_code": "60462-4572"}
+{"city": "Lake In The Hills", "state": "IL", "zip_code": "60156-5943"}
+{"city": "Mount Prospect", "state": "IL", "zip_code": "60056-1133"}
+{"city": "Fort Wayne", "state": "IN", "zip_code": "46808-4048"}
+{"city": "Granger", "state": "IN", "zip_code": "46530-7381"}
+{"city": "Castleton", "state": "IN", "zip_code": "46250-3507"}
+{"city": "Indianapolis", "state": "IN", "zip_code": "46268-3184"}
+{"city": "Merrillville", "state": "IN", "zip_code": "46410-5768"}
+{"city": "Coralville", "state": "IA", "zip_code": "52241"}
+{"city": "West Des Moines", "state": "IA", "zip_code": "50266-8140"}
+{"city": "Wichita", "state": "KS", "zip_code": "67207"}
+{"city": "Lenexa", "state": "KS", "zip_code": "66215-3845"}
+{"city": "Overland Park", "state": "KS", "zip_code": "66213-2640"}
+{"city": "Lexington", "state": "KY", "zip_code": "40509"}
+{"city": "Florence", "state": "KY", "zip_code": "41042-1415"}
+{"city": "Louisville", "state": "KY", "zip_code": "40241-2835"}
+{"city": "New Orleans", "state": "LA", "zip_code": "70118-4754"}
+{"city": "Baton Rouge", "state": "LA", "zip_code": "70809-2524"}
+{"city": "Lafayette", "state": "LA", "zip_code": "70508"}
+{"city": "Elkridge", "state": "MD", "zip_code": "21075-6457"}
+{"city": "Brandywine", "state": "MD", "zip_code": "20613-8081"}
+{"city": "Lanham", "state": "MD", "zip_code": "20706-1617"}
+{"city": "Wheaton", "state": "MD", "zip_code": "20902-2538"}
+{"city": "Glen Burnie", "state": "MD", "zip_code": "21060-6575"}
+{"city": "Baltimore", "state": "MD", "zip_code": "21220-1423"}
+{"city": "Gaithersburg", "state": "MD", "zip_code": "20879-3506"}
+{"city": "Beltsville", "state": "MD", "zip_code": "20705-2117"}
+{"city": "Hanover", "state": "MD", "zip_code": "21076-1387"}
+{"city": "Frederick", "state": "MD", "zip_code": "21704-7256"}
+{"city": "Danvers", "state": "MA", "zip_code": "01923-1014"}
+{"city": "West Springfield", "state": "MA", "zip_code": "01089-4672"}
+{"city": "Avon", "state": "MA", "zip_code": "02322-1149"}
+{"city": "Waltham", "state": "MA", "zip_code": "02451-1107"}
+{"city": "Dedham", "state": "MA", "zip_code": "02026-2653"}
+{"city": "Everett", "state": "MA", "zip_code": "02149-2428"}
+{"city": "Bloomfield", "state": "MI", "zip_code": "48302-0254"}
+{"city": "Pittsfield", "state": "MI", "zip_code": "48108"}
+{"city": "Kalamazoo", "state": "MI", "zip_code": "49006-5714"}
+{"city": "Commerce Township", "state": "MI", "zip_code": "48390-3082"}
+{"city": "Shelby Township", "state": "MI", "zip_code": "48315-6224"}
+{"city": "Auburn Hills", "state": "MI", "zip_code": "48326-1305"}
+{"city": "Livonia", "state": "MI", "zip_code": "48150-2215"}
+{"city": "Livonia", "state": "MI", "zip_code": "48152-1011"}
+{"city": "Madison Heights", "state": "MI", "zip_code": "48071-1611"}
+{"city": "Roseville", "state": "MI", "zip_code": "48066-2915"}
+{"city": "Wyoming", "state": "MI", "zip_code": "49418-8788"}
+{"city": "Grand Rapids", "state": "MI", "zip_code": "49512-2049"}
+{"city": "Brighton", "state": "MI", "zip_code": "48116-2160"}
+{"city": "Maplewood", "state": "MN", "zip_code": "55109-1064"}
+{"city": "Burnsville", "state": "MN", "zip_code": "55337-4407"}
+{"city": "Baxter", "state": "MN", "zip_code": "56425"}
+{"city": "Rochester", "state": "MN", "zip_code": "55901-3246"}
+{"city": "Minneapolis", "state": "MN", "zip_code": "55433"}
+{"city": "Saint Louis Park", "state": "MN", "zip_code": "55416-1446"}
+{"city": "Maple Grove", "state": "MN", "zip_code": "55369-7200"}
+{"city": "Eden Prairie", "state": "MN", "zip_code": "55344-3620"}
+{"city": "Manchester", "state": "MO", "zip_code": "63011-4385"}
+{"city": "Saint Louis", "state": "MO", "zip_code": "63128-1973"}
+{"city": "Independence", "state": "MO", "zip_code": "64055-7004"}
+{"city": "Kansas City", "state": "MO", "zip_code": "64111-1119"}
+{"city": "Saint Peters", "state": "MO", "zip_code": "63376-4385"}
+{"city": "Helena", "state": "MT", "zip_code": "59602-1217"}
+{"city": "Missoula", "state": "MT", "zip_code": "59808-1556"}
+{"city": "Billings", "state": "MT", "zip_code": "59102-7415"}
+{"city": "Kalispell", "state": "MT", "zip_code": "59901-2547"}
+{"city": "Bozeman", "state": "MT", "zip_code": "59718-7993"}
+{"city": "Omaha", "state": "NE", "zip_code": "68154-2382"}
+{"city": "Carson City", "state": "NV", "zip_code": "89705-6853"}
+{"city": "Reno", "state": "NV", "zip_code": "89502-4000"}
+{"city": "Las Vegas", "state": "NV", "zip_code": "89106-4305"}
+{"city": "Sparks", "state": "NV", "zip_code": "89436-9605"}
+{"city": "Henderson", "state": "NV", "zip_code": "89014-8601"}
+{"city": "Las Vegas", "state": "NV", "zip_code": "89144-4566"}
+{"city": "Las Vegas", "state": "NV", "zip_code": "89131-2796"}
+{"city": "Nashua", "state": "NH", "zip_code": "03060-5702"}
+{"city": "Stafford Township", "state": "NJ", "zip_code": "08050-2734"}
+{"city": "Morganville", "state": "NJ", "zip_code": "07751"}
+{"city": "North Plainfield", "state": "NJ", "zip_code": "07060"}
+{"city": "North Brunswick", "state": "NJ", "zip_code": "08902"}
+{"city": "Wayne", "state": "NJ", "zip_code": "07470-6933"}
+{"city": "Teterboro", "state": "NJ", "zip_code": "07608"}
+{"city": "Hazlet", "state": "NJ", "zip_code": "07730-1516"}
+{"city": "East Hanover", "state": "NJ", "zip_code": "07936-2107"}
+{"city": "Clifton", "state": "NJ", "zip_code": "07014-1724"}
+{"city": "Wharton", "state": "NJ", "zip_code": "07885-1222"}
+{"city": "Union", "state": "NJ", "zip_code": "07083-6809"}
+{"city": "Bridgewater", "state": "NJ", "zip_code": "08807-3457"}
+{"city": "Edison", "state": "NJ", "zip_code": "08817-4785"}
+{"city": "Ocean", "state": "NJ", "zip_code": "07712-3961"}
+{"city": "Hackensack", "state": "NJ", "zip_code": "07601-6954"}
+{"city": "Brick", "state": "NJ", "zip_code": "08723-4049"}
+{"city": "Mount Laurel", "state": "NJ", "zip_code": "08054-6103"}
+{"city": "Albuquerque", "state": "NM", "zip_code": "87114-5963"}
+{"city": "Albuquerque", "state": "NM", "zip_code": "87107-6811"}
+{"city": "Albuquerque", "state": "NM", "zip_code": "87123-3338"}
+{"city": "New York", "state": "NY", "zip_code": "10035-4409"}
+{"city": "Rego Park", "state": "NY", "zip_code": "11374-2772"}
+{"city": "Camillus", "state": "NY", "zip_code": "13031-1659"}
+{"city": "Rochester", "state": "NY", "zip_code": "14620"}
+{"city": "Nesconset", "state": "NY", "zip_code": "11767-1072"}
+{"city": "Westbury", "state": "NY", "zip_code": "11590-5641"}
+{"city": "Holbrook", "state": "NY", "zip_code": "11741-4309"}
+{"city": "Melville", "state": "NY", "zip_code": "11747-5007"}
+{"city": "Commack", "state": "NY", "zip_code": "11725-5421"}
+{"city": "New Rochelle", "state": "NY", "zip_code": "10805-1203"}
+{"city": "Long Island City", "state": "NY", "zip_code": "11106-4927"}
+{"city": "Nanuet", "state": "NY", "zip_code": "10954-5292"}
+{"city": "Lawrence", "state": "NY", "zip_code": "11559-1029"}
+{"city": "Staten Island", "state": "NY", "zip_code": "10314-5851"}
+{"city": "Brooklyn", "state": "NY", "zip_code": "11232-2400"}
+{"city": "Yonkers", "state": "NY", "zip_code": "10710-7204"}
+{"city": "Port Chester", "state": "NY", "zip_code": "10573-4343"}
+{"city": "Riverhead", "state": "NY", "zip_code": "11901-3146"}
+{"city": "Apex", "state": "NC", "zip_code": "27523"}
+{"city": "Durham", "state": "NC", "zip_code": "27705-3405"}
+{"city": "Greensboro", "state": "NC", "zip_code": "27407-1908"}
+{"city": "Charlotte", "state": "NC", "zip_code": "28217-3504"}
+{"city": "Winston Salem", "state": "NC", "zip_code": "27103-1310"}
+{"city": "Matthews", "state": "NC", "zip_code": "28105-5766"}
+{"city": "Wilmington", "state": "NC", "zip_code": "28405-3091"}
+{"city": "Raleigh", "state": "NC", "zip_code": "27609-7840"}
+{"city": "West Fargo", "state": "ND", "zip_code": "58078"}
+{"city": "Toledo", "state": "OH", "zip_code": "43606-1402"}
+{"city": "Columbus", "state": "OH", "zip_code": "43219-3044"}
+{"city": "Centerville", "state": "OH", "zip_code": "45440"}
+{"city": "Perrysburg", "state": "OH", "zip_code": "43551-1967"}
+{"city": "Avon", "state": "OH", "zip_code": "44011-1681"}
+{"city": "Cleveland", "state": "OH", "zip_code": "44124-1808"}
+{"city": "Springdale", "state": "OH", "zip_code": "45246-3321"}
+{"city": "Cincinnati", "state": "OH", "zip_code": "45249-8220"}
+{"city": "Strongsville", "state": "OH", "zip_code": "44136-4433"}
+{"city": "Columbus", "state": "OH", "zip_code": "43240-7002"}
+{"city": "Tulsa", "state": "OK", "zip_code": "74133"}
+{"city": "Bend", "state": "OR", "zip_code": "97701-6277"}
+{"city": "Warrenton", "state": "OR", "zip_code": "97146-7339"}
+{"city": "Roseburg", "state": "OR", "zip_code": "97470-1161"}
+{"city": "Tigard", "state": "OR", "zip_code": "97223-8401"}
+{"city": "Eugene", "state": "OR", "zip_code": "97408-7337"}
+{"city": "Portland", "state": "OR", "zip_code": "97230-3401"}
+{"city": "Medford", "state": "OR", "zip_code": "97504-9259"}
+{"city": "Salem", "state": "OR", "zip_code": "97301-5090"}
+{"city": "Albany", "state": "OR", "zip_code": "97321-5325"}
+{"city": "Hillsboro", "state": "OR", "zip_code": "97124-5008"}
+{"city": "Wilsonville", "state": "OR", "zip_code": "97070-5785"}
+{"city": "Aloha", "state": "OR", "zip_code": "97006-5098"}
+{"city": "Clackamas", "state": "OR", "zip_code": "97015-9733"}
+{"city": "Pottstown", "state": "PA", "zip_code": "19464-3413"}
+{"city": "Warminster", "state": "PA", "zip_code": "18974-3533"}
+{"city": "Glen Mills", "state": "PA", "zip_code": "19342"}
+{"city": "King Of Prussia", "state": "PA", "zip_code": "19406-1634"}
+{"city": "North Wales", "state": "PA", "zip_code": "19454-1403"}
+{"city": "Lancaster", "state": "PA", "zip_code": "17601-5671"}
+{"city": "Harrisburg", "state": "PA", "zip_code": "17112-2983"}
+{"city": "Cranberry Township", "state": "PA", "zip_code": "16066-6142"}
+{"city": "Pittsburgh", "state": "PA", "zip_code": "15205-4858"}
+{"city": "West Homestead", "state": "PA", "zip_code": "15120-5009"}
+{"city": "Greenville", "state": "SC", "zip_code": "29607-4108"}
+{"city": "Spartanburg", "state": "SC", "zip_code": "29301-1382"}
+{"city": "Myrtle Beach", "state": "SC", "zip_code": "29577-9795"}
+{"city": "Charleston", "state": "SC", "zip_code": "29414-5664"}
+{"city": "Sioux Falls", "state": "SD", "zip_code": "57105"}
+{"city": "Knoxville", "state": "TN", "zip_code": "37934-3002"}
+{"city": "Cordova", "state": "TN", "zip_code": "38016-4494"}
+{"city": "Memphis", "state": "TN", "zip_code": "38125-2302"}
+{"city": "Brentwood", "state": "TN", "zip_code": "37027-2930"}
+{"city": "Nashville", "state": "TN", "zip_code": "37209-4202"}
+{"city": "Selma", "state": "TX", "zip_code": "78154-381"}
+{"city": "Houston", "state": "TX", "zip_code": "77027-5802"}
+{"city": "Rockwall", "state": "TX", "zip_code": "75032-9376"}
+{"city": "Frisco", "state": "TX", "zip_code": "75033-4102"}
+{"city": "Pharr", "state": "TX", "zip_code": "78577-5031"}
+{"city": "Sugar Land", "state": "TX", "zip_code": "77479-2359"}
+{"city": "Cedar Park", "state": "TX", "zip_code": "78613"}
+{"city": "Lubbock", "state": "TX", "zip_code": "79407-3102"}
+{"city": "Katy", "state": "TX", "zip_code": "77494"}
+{"city": "Fort Worth", "state": "TX", "zip_code": "76177"}
+{"city": "The Woodlands", "state": "TX", "zip_code": "77385"}
+{"city": "Pearland", "state": "TX", "zip_code": "7758"}
+{"city": "Humble", "state": "TX", "zip_code": "77338-1594"}
+{"city": "Fort Worth", "state": "TX", "zip_code": "76132-3301"}
+{"city": "Duncanville", "state": "TX", "zip_code": "75137-4415"}
+{"city": "South Austin", "state": "TX", "zip_code": "78749-1499"}
+{"city": "Plano", "state": "TX", "zip_code": "75074-2221"}
+{"city": "Arlington", "state": "TX", "zip_code": "76014-3702"}
+{"city": "Southlake", "state": "TX", "zip_code": "76092-6668"}
+{"city": "Houston", "state": "TX", "zip_code": "77064-1170"}
+{"city": "Houston", "state": "TX", "zip_code": "77055-6208"}
+{"city": "Austin", "state": "TX", "zip_code": "78759-5712"}
+{"city": "Lewisville", "state": "TX", "zip_code": "75067-4158"}
+{"city": "Plano", "state": "TX", "zip_code": "75093-4520"}
+{"city": "San Antonio", "state": "TX", "zip_code": "78249-1619"}
+{"city": "San Antonio", "state": "TX", "zip_code": "78232-1322"}
+{"city": "El Paso", "state": "TX", "zip_code": "79925-3430"}
+{"city": "South Jordan", "state": "UT", "zip_code": "84095"}
+{"city": "Spanish Fork", "state": "UT", "zip_code": "84660"}
+{"city": "Salt Lake City", "state": "UT", "zip_code": "84115-1805"}
+{"city": "Orem", "state": "UT", "zip_code": "84097-6528"}
+{"city": "Sandy", "state": "UT", "zip_code": "84070-4171"}
+{"city": "West Valley", "state": "UT", "zip_code": "84119-4903"}
+{"city": "Saint George", "state": "UT", "zip_code": "84790-9041"}
+{"city": "Lehi", "state": "UT", "zip_code": "84043-2294"}
+{"city": "West Bountiful", "state": "UT", "zip_code": "84010-7018"}
+{"city": "Murray", "state": "UT", "zip_code": "84107-6024"}
+{"city": "Ogden", "state": "UT", "zip_code": "84405-7101"}
+{"city": "Colchester", "state": "VT", "zip_code": "05446-5830"}
+{"city": "Richmond", "state": "VA", "zip_code": "23235-4887"}
+{"city": "Alexandria", "state": "VA", "zip_code": "22306"}
+{"city": "Charlottesville", "state": "VA", "zip_code": "22901-2784"}
+{"city": "Norfolk", "state": "VA", "zip_code": "23502-3702"}
+{"city": "Fairfax", "state": "VA", "zip_code": "22030-6101"}
+{"city": "Glen Allen", "state": "VA", "zip_code": "23060-4115"}
+{"city": "Sterling", "state": "VA", "zip_code": "20164-6607"}
+{"city": "Manassas", "state": "VA", "zip_code": "20109-2845"}
+{"city": "Springfield", "state": "VA", "zip_code": "22153-2805"}
+{"city": "Arlington", "state": "VA", "zip_code": "22202-2862"}
+{"city": "Harrisonburg", "state": "VA", "zip_code": "22801-8742"}
+{"city": "Winchester", "state": "VA", "zip_code": "22602-7319"}
+{"city": "Newport News", "state": "VA", "zip_code": "23602-6916"}
+{"city": "Chantilly", "state": "VA", "zip_code": "20151-2117"}
+{"city": "Leesburg", "state": "VA", "zip_code": "20176-3355"}
+{"city": "Fredericksburg", "state": "VA", "zip_code": "22407-4954"}
+{"city": "Woodbridge", "state": "VA", "zip_code": "22192-4653"}
+{"city": "Seattle", "state": "WA", "zip_code": "98134-2389"}
+{"city": "Union Gap", "state": "WA", "zip_code": "98903-1513"}
+{"city": "Covington", "state": "WA", "zip_code": "98042-9100"}
+{"city": "Clarkston", "state": "WA", "zip_code": "99403-1860"}
+{"city": "Shoreline", "state": "WA", "zip_code": "98133-3206"}
+{"city": "Camas", "state": "WA", "zip_code": "98607-7472"}
+{"city": "Issaquah", "state": "WA", "zip_code": "98027-5384"}
+{"city": "East Wenatchee", "state": "WA", "zip_code": "98802-5344"}
+{"city": "Everett", "state": "WA", "zip_code": "98208-4256"}
+{"city": "Lynnwood", "state": "WA", "zip_code": "98036-5228"}
+{"city": "Lynnwood", "state": "WA", "zip_code": "98037"}
+{"city": "Silverdale", "state": "WA", "zip_code": "98383-8302"}
+{"city": "Bellingham", "state": "WA", "zip_code": "98226-6475"}
+{"city": "Kennewick", "state": "WA", "zip_code": "99336-8120"}
+{"city": "Tukwila", "state": "WA", "zip_code": "98188-4808"}
+{"city": "Federal Way", "state": "WA", "zip_code": "98003-8314"}
+{"city": "Gig Harbor", "state": "WA", "zip_code": "98335"}
+{"city": "Sequim", "state": "WA", "zip_code": "98382-3266"}
+{"city": "Tumwater", "state": "WA", "zip_code": "98512-7363"}
+{"city": "Marysville", "state": "WA", "zip_code": "98271-4701"}
+{"city": "Spokane", "state": "WA", "zip_code": "99208-5613"}
+{"city": "Puyallup", "state": "WA", "zip_code": "98373-3803"}
+{"city": "Burlington", "state": "WA", "zip_code": "98233-3223"}
+{"city": "Spokane", "state": "WA", "zip_code": "99212-0826"}
+{"city": "Lacey", "state": "WA", "zip_code": "98516-3870"}
+{"city": "Woodinville", "state": "WA", "zip_code": "98072-9743"}
+{"city": "Fife", "state": "WA", "zip_code": "98424-1818"}
+{"city": "Vancouver", "state": "WA", "zip_code": "98665-2016"}
+{"city": "Kirkland", "state": "WA", "zip_code": "98033-5865"}
+{"city": "Tacoma", "state": "WA", "zip_code": "98409-7473"}
+{"city": "Middleton", "state": "WI", "zip_code": "53562-5507"}
+{"city": "Pewaukee", "state": "WI", "zip_code": "53072"}
+{"city": "Sun Prairie", "state": "WI", "zip_code": "53590-9334"}
+{"city": "Bellevue", "state": "WI", "zip_code": "54311"}
+{"city": "Pleasant Prairie", "state": "WI", "zip_code": "53158-1955"}
+{"city": "Menomonee Falls", "state": "WI", "zip_code": "53051"}
+{"city": "New Berlin", "state": "WI", "zip_code": "53151"}
+{"city": "Grand Chute", "state": "WI", "zip_code": "54913"}
+{"city": "Grafton", "state": "WI", "zip_code": "53024-9201"}
