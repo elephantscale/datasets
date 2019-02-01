@@ -13,6 +13,8 @@
 echo "## uploading to S3"
 aws s3 sync --exclude '.git/*' --exclude 'nltk_data/*'  --exclude 'activity-data/*' --exclude '**/.DS_Store'  . s3://elephantscale-public/data/ --acl public-read
 
+# zip up cats-dogs, so it is efficient to download from S3
+zip -r cats-dogs.zip cat-dog/
 
 zip_file_name="datasets.zip"
 rm -f *.zip
