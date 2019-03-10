@@ -2,6 +2,7 @@
 
 click-stream/json/
 click-stream/*.csv
+click-stream/my*
 *.zip
 *.out
 nltk_data/
