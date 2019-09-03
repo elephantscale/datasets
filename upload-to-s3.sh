@@ -9,6 +9,7 @@
 ##      aws_access_key_id =  XXXXX
 ##      aws_secret_access_key = YYYYY
 
+rm *.zip
 
 echo "## uploading to S3"
 aws s3 sync --exclude '.git/*' --exclude 'nltk_data/*'  --exclude 'activity-data/*' --exclude '**/.DS_Store'  . s3://elephantscale-public/data/ --acl public-read
@@ -16,11 +17,7 @@ aws s3 sync --exclude '.git/*' --exclude 'nltk_data/*'  --exclude 'activity-data
 # zip up cats-dogs, so it is efficient to download from S3
 zip -r cats-dogs.zip cat-dog/
 
-zip_file_name="datasets.zip"
-rm -f *.zip
-echo "## creating $$zip_file_name...."
-zip -x '*.DS_Store*'  -x "*.log" -x '*.git*'  -x '*zip*' -x '*.data' -x '*metastore_db*' -x '*out' -x '*.ipynb_checkpoints*' -x '*not-using*' -x 'nltk_data/*' -x 'activity-data/*' -x 'presidential_election_contribs/2016.zip' -x 'presidential_election_contribs/2016/2016-full.csv.gz' -r "$zip_file_name" .
-echo "## done."
+./create-zip.sh
 
 echo "## uploading to S3"
 aws s3 sync --exclude '.git/*' --exclude 'text/twinkle/*.data'  --exclude 'nltk_data/*'  --exclude 'activity-data/*'  . s3://elephantscale-public/data/ --acl public-read
