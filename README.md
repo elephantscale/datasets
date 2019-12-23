@@ -3,7 +3,7 @@
 These are some datasets for our labs.
 
 Also hosted in Amazon S3 here:
-https://s3.amazonaws.com/elephantscale-public/data/datasets.zip
+https://s3.amazonaws.com/elephantscale-public/data/data.zip
 
 - [AudioScrobble](./audioscrobble/README.md)
 - [Cars](./cars/README.md)
@@ -38,8 +38,11 @@ https://s3.amazonaws.com/elephantscale-public/data/datasets.zip
 
 # Handy Commands
 
-TO create a zip archive of data
-    $   git archive --format=zip HEAD -o datasets.zip
+To create a zip archive of data
+    $   ./create-zip.sh
+
+To upload to S3
+    $   ./upload-to-s3.sh*
 
 to select random lines from the full file
         $   shuf -n 10000 2016.csv > 2016-10k.csv
