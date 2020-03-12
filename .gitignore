@@ -10,3 +10,5 @@ nltk_data/
 
 presidential_election_contribs/2016/2016-full.csv.gz
 ./idea
+
+.ipynb_checkpoints
