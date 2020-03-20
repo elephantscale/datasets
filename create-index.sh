@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## Usage:
-##  ./create-index.sh
+##  bash create-index.sh
 ##
 ## Alternate parameters:
 ##   ROOT: Specify root path. Default is current folder.
