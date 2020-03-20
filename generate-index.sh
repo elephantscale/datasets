@@ -3,10 +3,15 @@
 ROOT=./
 HTTP="https://s3.amazonaws.com/elephantscale-public/data"
 OUTPUT="index.html"
-TITLE="Datasets"
+TITLE="ES datasets"
+HEADING="Datasets"
 
 i=0
-echo "<h1> $TITLE </h1>" >> $OUTPUT
+
+echo "<html>" >> $OUTPUT
+echo "<head> <title> $TITLE </title> </head>" >> $OUTPUT
+echo "<body> <h1> $HEADING </h1>" >> $OUTPUT
+
 
 echo "<UL>" >> $OUTPUT
 for filepath in `find "$ROOT" ! -name "*.git" ! -name "*.idea" ! -name "*.idea" ! -name "*.DS_Store" -maxdepth 1 -mindepth 1 -type d  | sort`; do
@@ -22,3 +27,5 @@ for filepath in `find "$ROOT" ! -name "*.git" ! -name "*.idea" ! -name "*.idea" 
   echo "  </UL>" >> $OUTPUT
 done
 echo "</UL>" >> $OUTPUT
+echo "</body>" >> $OUTPUT
+echo "</html>" >> $OUTPUT
