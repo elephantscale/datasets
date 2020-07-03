@@ -1,6 +1,8 @@
 *.data
 data
 
+images/*/*
+
 click-stream/json/
 click-stream/*.csv
 click-stream/my*
