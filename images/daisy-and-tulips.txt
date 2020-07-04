@@ -1,0 +1,19 @@
+Daisy and Tulip
+
+About:
+    Flowers
+
+Stats:
+    Size = 71M
+
+    ./daisy-and-tulips : files= 3 , size= 71M
+    ./daisy-and-tulips/daisy : files= 633 , size= 35M
+    ./daisy-and-tulips/tulips : files= 554 , size= 36M
+
+
+
+Locations:
+    - https://elephantscale-public.s3.amazonaws.com/data/images/daisy-and-tulips.zip
+
+Download:
+    $ wget https://elephantscale-public.s3.amazonaws.com/data/images/daisy-and-tulips.zip

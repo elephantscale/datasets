@@ -14,5 +14,5 @@ rm *.zip
 ./create-zip.sh
 
 echo "## uploading to S3"
-aws s3 sync --exclude '.git/*' --exclude 'nltk_data/*'  --exclude 'activity-data/*' --exclude '**/.DS_Store' --exclude '*.out' --exclude '**/_SUCCESS'  --exclude 'data/text/twinkle/*.data'  --exclude 'click-sream/json' --exclude 'uber-nyc/full/*' --exclude 'images/**/*' . s3://elephantscale-public/data/ --acl public-read
+aws s3 sync --exclude '.git/*' --exclude 'nltk_data/*'  --exclude 'activity-data/*' --exclude '**/.DS_Store' --exclude '*.out' --exclude '**/_SUCCESS'  --exclude 'data/text/twinkle/*.data'  --exclude 'click-sream/json' --exclude 'uber-nyc/full/*' --exclude 'images/**/*' --exclude 'images/tmp/*'  . s3://elephantscale-public/data/ --acl public-read
 

@@ -1,7 +1,7 @@
 *.data
 data
 
-images/*/*
+images/*/
 
 click-stream/json/
 click-stream/*.csv

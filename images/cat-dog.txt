@@ -1,0 +1,23 @@
+Cat-Dog-Redux
+
+About:
+    cats and dogs
+
+Stats:
+    Size = 58M
+
+    ./cat-dog : files= 3 , size= 58M
+    ./cat-dog/train : files= 2 , size= 43M
+    ./cat-dog/train/dogs : files= 900 , size= 23M
+    ./cat-dog/train/cats : files= 900 , size= 20M
+    ./cat-dog/validation : files= 2 , size= 15M
+    ./cat-dog/validation/dogs : files= 310 , size= 7.8M
+    ./cat-dog/validation/cats : files= 301 , size= 6.7M
+
+
+
+Locations:
+    - https://elephantscale-public.s3.amazonaws.com/data/images/cat-dog.zip
+
+Download:
+    $ wget https://elephantscale-public.s3.amazonaws.com/data/images/cat-dog.zip

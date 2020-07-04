@@ -1,0 +1,18 @@
+Happy or Sad
+
+About:
+    Emojis of happy faces and sad faces
+
+Stats:
+    Size = 2.7M
+    
+    ./happy-or-sad : files= 2 , size= 2.7M
+    ./happy-or-sad/sad : files= 40 , size= 1.3M
+    ./happy-or-sad/happy : files= 40 , size= 1.4M
+
+
+Locations:
+    - https://elephantscale-public.s3.amazonaws.com/data/images/happy-or-sad.zip
+
+Download:
+    $ wget https://elephantscale-public.s3.amazonaws.com/data/images/happy-or-sad.zip
