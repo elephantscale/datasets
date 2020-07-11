@@ -6,13 +6,15 @@ About:
 Stats:
     Size = 25M
     
-    ./cat-dog-redux : files= 2 , size= 24M
-    ./cat-dog-redux/train : files= 2 , size= 12M
+    ./cat-dog-redux : files= 1000 , size= 24M
+    ./cat-dog-redux/train : files= 500 , size= 12M
     ./cat-dog-redux/train/dog : files= 250 , size= 6.6M
     ./cat-dog-redux/train/cat : files= 250 , size= 5.5M
-    ./cat-dog-redux/val : files= 2 , size= 12M
+    ./cat-dog-redux/val : files= 500 , size= 12M
     ./cat-dog-redux/val/dog : files= 250 , size= 6.3M
     ./cat-dog-redux/val/cat : files= 250 , size= 5.7M
+
+
 
 
 Locations:

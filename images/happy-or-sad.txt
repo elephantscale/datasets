@@ -6,9 +6,10 @@ About:
 Stats:
     Size = 2.7M
     
-    ./happy-or-sad : files= 2 , size= 2.7M
+    ./happy-or-sad : files= 80 , size= 2.7M
     ./happy-or-sad/sad : files= 40 , size= 1.3M
     ./happy-or-sad/happy : files= 40 , size= 1.4M
+
 
 
 Locations:

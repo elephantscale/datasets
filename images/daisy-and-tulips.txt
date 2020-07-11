@@ -6,9 +6,10 @@ About:
 Stats:
     Size = 71M
 
-    ./daisy-and-tulips : files= 3 , size= 71M
+    ./daisy-and-tulips : files= 1188 , size= 71M
     ./daisy-and-tulips/daisy : files= 633 , size= 35M
     ./daisy-and-tulips/tulips : files= 554 , size= 36M
+
 
 
 

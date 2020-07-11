@@ -6,13 +6,15 @@ About:
 Stats:
     Size = 157 M
 
-    ./horse-or-human : files= 2 , size= 157M
-    ./horse-or-human/train : files= 2 , size= 145M
+    ./horse-or-human : files= 1283 , size= 157M
+    ./horse-or-human/train : files= 1027 , size= 145M
     ./horse-or-human/train/humans : files= 527 , size= 72M
     ./horse-or-human/train/horses : files= 500 , size= 74M
-    ./horse-or-human/validation : files= 2 , size= 12M
+    ./horse-or-human/validation : files= 256 , size= 12M
     ./horse-or-human/validation/humans : files= 128 , size= 5.3M
     ./horse-or-human/validation/horses : files= 128 , size= 6.3M
+
+
 
 
 

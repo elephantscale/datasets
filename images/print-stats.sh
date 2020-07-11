@@ -1,3 +1,3 @@
 #!/bin/bash
-find . -type d -exec bash -c 'echo "{} : files=" `ls "{}" | wc -l`  ", size=" `du -skh "{}" | cut -f 1`' \;
+find . -type d -exec bash -c 'echo "{} : files=" `find "{}" -type f | wc -l`  ", size=" `du -skh "{}" | cut -f 1`' \;
 
