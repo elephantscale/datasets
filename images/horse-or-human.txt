@@ -2,6 +2,7 @@ Horse or Humans
 
 About:
     Horses and Humans dataset
+    http://www.laurencemoroney.com/horses-or-humans-dataset/
 
 Stats:
     Size = 157 M
