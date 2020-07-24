@@ -11,8 +11,6 @@ Stats:
     ./daisy-and-tulips/tulips : files= 554 , size= 36M
 
 
-
-
 Locations:
     - https://elephantscale-public.s3.amazonaws.com/data/images/daisy-and-tulips.zip
 

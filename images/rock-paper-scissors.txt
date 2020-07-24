@@ -1,0 +1,38 @@
+Rock Paper Scissors
+
+This is a cool CGI generated image set.
+
+Each image is 300×300 pixels in 24-bit color
+
+http://www.laurencemoroney.com/rock-paper-scissors-dataset/
+
+Licensed CC By 2.0 and available for all purposes
+
+Total size = 225 MB
+
+train set:
+
+    rps : files= 2520 , size= 196M
+    rps/paper : files= 840 , size= 67M
+    rps/scissors : files= 840 , size= 69M
+    rps/rock : files= 840 , size= 62M
+
+
+test set:
+    rps-test-set : files= 372 , size= 29M
+    rps-test-set/paper : files= 124 , size= 9.9M
+    rps-test-set/scissors : files= 124 , size= 9.6M
+    rps-test-set/rock : files= 124 , size= 9.5M
+
+Locations:
+    - Training set
+        - https://elephantscale-public.s3.amazonaws.com/data/images/rps.zip
+        - https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
+        
+    - Test set
+        - https://elephantscale-public.s3.amazonaws.com/data/images/rps-test-set.zip
+        - https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip
+
+Download:
+    $ wget https://elephantscale-public.s3.amazonaws.com/data/images/rps.zip
+    $ wget https://elephantscale-public.s3.amazonaws.com/data/images/rps.zip
