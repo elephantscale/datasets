@@ -5,6 +5,12 @@ These are some datasets for our labs.
 Also hosted in Amazon S3 here:
 https://s3.amazonaws.com/elephantscale-public/data/data.zip
 
+The base URL for S3 is : 
+    https://s3.amazonaws.com/elephantscale-public/data/
+And append the path to the above base.
+e.g.
+    https://s3.amazonaws.com/elephantscale-public/data/house-prices/house-sales-sample.csv
+
 - [AudioScrobble](./audioscrobble/README.md)
 - [Cars](./cars/README.md)
 - [Churn](./churn/README.md)
