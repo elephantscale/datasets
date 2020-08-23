@@ -7,9 +7,38 @@ echo "## creating $zip_file_name...."
 
 me=`pwd`
 
-cd .. && rm -f "$zip_file_name" && \
-    rm -f data && ln -sf "$me" ./data && \
-    zip  -x '*.DS_Store*'  -x '*click-stream/json*' -x "*.log" -x '*.git*'  -x '*zip*' -x '*.data' -x '*metastore_db*' -x '*out' -x '*.ipynb_checkpoints*' -x '*not-using*' -x '*nltk_data/*' -x '*activity-data/*' -x '*presidential_election_contribs/2016.zip' -x '*presidential_election_contribs/2016/2016-full.csv.gz' -x '*regression/*' -x '*flight-data/raw/2015/*.csv*' -x '*images/*' -x '*uber-nyc/full/*'  -r  "$zip_file_name" data &&\
+cd .. && zip  \
+        -x '*.DS_Store*' \
+        -x '*.data' \
+        -x '*.git*' \
+        -x '*.idea*' \
+        -x '*.ipynb_checkpoints*' \
+        -x '*.log' \
+        -x '*.sh' \
+        -x '*activity-data/*' \
+        -x '*binary-classification*' \
+        -x '*click-stream/json*' \
+        -x '*clustering/*' \
+        -x '*flight-data-hive*' \
+        -x '*flight-data/raw/2015/*.csv*' \
+        -x '*images/*' \
+        -x '*metastore_db*' \
+        -x '*ml-latest-full*' \
+        -x '*multiclass-classification*' \
+        -x '*nltk_data/*' \
+        -x '*not-using*' \
+        -x '*out*' \
+        -x '*presidential_election_contribs/2016.zip' \
+        -x '*presidential_election_contribs/2016/2016-full.csv.gz' \
+        -x '*regression/*' \
+        -x '*simple-ml*' \
+        -x '*simple-ml-integers*' \
+        -x '*simple-ml-scaling*' \
+        -x '*street2shop*' \
+        -x '*uber-nyc/full/*' \
+        -x '*zip*' \
+        \
+        -r  "$zip_file_name" data && \
      zip -u "$zip_file_name"  data/images/*.txt data/images/*.html data/images/*.sh &&\
      mv "$zip_file_name"  "$me" &&  cd -
 
