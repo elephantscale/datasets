@@ -4,6 +4,7 @@ out
 *.sw*
 
 images/*/
+*-rand
 
 click-stream/json/
 click-stream/*.csv
