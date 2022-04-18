@@ -18,6 +18,7 @@ cd .. && zip  \
         -x '*activity-data/*' \
         -x '*binary-classification*' \
         -x '*click-stream/json*' \
+        -x '*click-stream/my-*' \
         -x '*clustering/*' \
         -x '*flight-data-hive*' \
         -x '*flight-data/raw/2015/*.csv*' \
