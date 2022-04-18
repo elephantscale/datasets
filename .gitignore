@@ -2,6 +2,7 @@
 data
 out
 *.sw*
+__MACOSX
 
 images/*/
 *-rand

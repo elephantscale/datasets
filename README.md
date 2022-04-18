@@ -1,4 +1,6 @@
-# datasets
+# Datasets
+
+## About
 
 These are some datasets for our labs.
 
@@ -10,6 +12,41 @@ The base URL for S3 is :
 And append the path to the above base.
 e.g.
     https://s3.amazonaws.com/elephantscale-public/data/house-prices/house-sales-sample.csv
+
+## Curators and developers
+
+See instructions in `README-dev.md`
+
+---
+
+## Data Analytics
+
+* [AirBNB rentals NYC 2019](airbnb/AB_NYC_2019.csv)
+* [US presidential election contribution data](presidential_election_contribs/README.md) - 2012 and 2016 election contributions.  Decent size data
+
+---
+
+## Regression
+
+* [Medical Insurance cost](medical-insurance-cost/insurance.csv)
+* Cars
+    - [BMW Used cars sales](cars/bmw_used_car_sales.csv)
+	- [MTCars predict mileage](cars/mtcars_header.csv)
+
+## Classification
+
+* [Wine quality](wine-quality/README.md) - estimate wine quality from 1-10
+
+## Text Analytics
+
+* [Customer tickets data](text/customer-tickets-1/README.md)
+* [Sarcasm data](text/sarcasm/README.md) - news stories.  Sentiment analysis
+* [Wine reviews](wine-reviews/) - text reviews and ratings from wine magazine
+
+
+---
+
+## All Data
 
 - [AudioScrobble](./audioscrobble/README.md)
 - [Cars](./cars/README.md)
@@ -44,14 +81,6 @@ e.g.
 
 # Handy Commands
 
-To create a zip archive of data
-    $   ./create-zip.sh
-
-To upload to S3
-    $   ./upload-to-s3.sh*
-
-to select random lines from the full file
-        $   shuf -n 10000 2016.csv > 2016-10k.csv
         
    
 # Places with good datasets
