@@ -23,6 +23,15 @@ See instructions in `README-dev.md`
 
 * [AirBNB rentals NYC 2019](airbnb/AB_NYC_2019.csv)
 * [US presidential election contribution data](presidential_election_contribs/README.md) - 2012 and 2016 election contributions.  Decent size data
+* [Wine reviews](wine-reviews/) - text reviews and ratings from wine magazine
+
+---
+
+## Feature Engineering
+
+### Data Cleanup
+
+* [Wine reviews](wine-reviews/) - text reviews and ratings from wine magazine
 
 ---
 
