@@ -32,6 +32,7 @@ See instructions in `README-dev.md`
 ### Data Cleanup
 
 * [Wine reviews](wine-reviews/) - text reviews and ratings from wine magazine
+* [Streaming movies data](movies/movies-on-streaming-platforms.csv)
 
 ---
 
