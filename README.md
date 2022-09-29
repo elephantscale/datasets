@@ -31,6 +31,7 @@ See instructions in `README-dev.md`
 
 ### Data Cleanup
 
+* [Diabetes data](diabetes/README.md)
 * [Wine reviews](wine-reviews/) - text reviews and ratings from wine magazine
 * [Streaming movies data](movies/movies-on-streaming-platforms.csv)
 
@@ -42,9 +43,15 @@ See instructions in `README-dev.md`
 * Cars
     - [BMW Used cars sales](cars/bmw_used_car_sales.csv)
 	- [MTCars predict mileage](cars/mtcars_header.csv)
+- [House Prices](./house-prices/README.md)
 
 ## Classification
 
+* [College Admissions](./college-admissions/README.md) - Pretty simple data
+- [Churn](./churn/README.md) - predict customer turn over in Telecom
+- [Credit Card default](./credit-card-default/README.md)
+* [Diabetes data](diabetes/README.md)
+- [Spam SMS](./spam/README.md)
 * [Wine quality](wine-quality/README.md) - estimate wine quality from 1-10
 
 ## Text Analytics

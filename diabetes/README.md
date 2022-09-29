@@ -1,9 +1,11 @@
 # Diabetes data
 
-## Source :
+## Source
+
 https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes
 
 ## Description
+
  attributes : 8
  target variable : 1
  number of observations : 768
@@ -18,6 +20,7 @@ https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes
 8. Age (years)
 9. Class variable (0 or 1)
 
+```text
 +---+---+---+---+---+----+-----+---+-------+
 |  a|  b|  c|  d|  e|   f|    g|  h|outcome|
 +---+---+---+---+---+----+-----+---+-------+
@@ -26,7 +29,8 @@ https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes
 |  8|183| 64|  0|  0|23.3|0.672| 32|      1|
 |  1|103| 30| 38| 83|43.3|0.183| 33|      0|
 |  1|115| 70| 30| 96|34.6|0.529| 32|      1|
-+---+---+---+---+---+----+-----+---+-------+    
++---+---+---+---+---+----+-----+---+-------+
+```
 
 ## Algorithms
 Classification
